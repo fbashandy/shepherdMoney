@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3979a91-b37d-4be4-8757-29a0741fc805" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-project-public" beforeDir="false" afterPath="$PROJECT_DIR$/interview-project-public" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/controller/CreditCardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/controller/CreditCardController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/model/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/model/CreditCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-project-public/src/main/java/com/shepherdmoney/interviewproject/model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
